@@ -10,7 +10,7 @@
 }
 /* background image */
 .background {
-    background: url(/images//code.jpg);
+    background: url(images/code.jpg);
     background-color: #FFFFCC;
     background-repeat: no-repeat;
     background-size: cover;
